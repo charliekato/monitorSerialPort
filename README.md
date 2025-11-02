@@ -10,6 +10,5 @@ published: false
 右下からballoon tool tip のように出てくる。
 SEIKO のresult systemでonlineにするときいちいちCOM番号をデバイスマネージャーで調べる必要がなくなります。
 このツールを立ち上げておいてRSB21のserial interfaceをUSBに挿入すると下のスクリーンショットの様にCOM番号を教えてくれます。
-![](monitorSerialPort.png =600x)
-
+<img src="./monitorSerialPort.png" width="600">
 
